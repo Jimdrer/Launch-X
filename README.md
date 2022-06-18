@@ -9,7 +9,7 @@ Dentro del curso se Hizo el uso de herramientas como:
 *Figma<br>
 *Visual Studio Code<br>
 *Photoshop<br>
-*Ilustrator<br>
+*Illustrator<br>
 
 Tecnologias como:
 
