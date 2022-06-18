@@ -2,7 +2,7 @@
                         Launch X/Microsoft
              Curso Intensivo FullStack impartido por Microsoft                        
 
-   ![github width:100px](https://user-images.githubusercontent.com/81352856/154356725-8ac694c8-08bd-4df3-b73c-06399efa2cd5.png)
+   ![github](https://user-images.githubusercontent.com/81352856/154356725-8ac694c8-08bd-4df3-b73c-06399efa2cd5.png)
 <br>
 Dentro del curso se Hizo el uso de herramientas como:
 
